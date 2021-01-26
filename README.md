@@ -23,9 +23,9 @@ Contains 6 files:
 
 5. anl-rev-bot-analysis.pdf
 	
-	Same as 3 but in pdf for readability. 
+	Same as 4 but in pdf for readability. 
 
 5. anlbotdata.csv
 
-	Dataset containing quiz attempts.
+	Dataset containing quiz attempts by users.
 	
